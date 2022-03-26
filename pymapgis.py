@@ -265,7 +265,6 @@ class Reader:
         self.geom = [shapely.geometry.LineString(np.array(i).reshape(-1,2)*self.sc) for i in self.coords]
         
         
-        1-定南县地形地质图10万/定南成矿母岩地质填图.W
         
   
         
